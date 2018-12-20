@@ -1,3 +1,10 @@
+Dataset on Globus:
+https://app.globus.org/file-manager?origin_id=e38ee745-6d04-11e5-ba46-22000b92c6ec&origin_path=%2Fschwarting%2F
+
+Original Dataset:
+https://data.caltech.edu/records/1103
+
+
 Goals for the MatAutoEncode Repo:
 
 - Get dataset into MDF, make sure that any user can pull it down and easily access both spectra and image
